@@ -1,6 +1,6 @@
 <div align="left">
 
-![reversal](https://capsule-render.vercel.app/api?type=soft&text=Hello,%20I'm%20Deokhaeng&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn&desc=&descAlignY=40&color=0:61c3cc,100:C9F5D9)
+![reversal](https://capsule-render.vercel.app/api?type=soft&text=Hello,%20I'm%20Deokhaeng&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn&desc=&descAlignY=40&color=0:61c3cc,70:C9F5D9)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deokhaeng&layout=compact)](https://github.com/Deokhaeng/github-readme-stats)
@@ -13,11 +13,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=flat-square&logo=axios&logoColor=white">
-</br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/route53-F7A81B?style=flat-square&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/socketio-blue?style=flat-square&logo=socketio&logoColor=white">
-</br>
 <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
