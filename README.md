@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![reversal](https://capsule-render.vercel.app/api?type=soft&text=Hello,%20I'm%20Deokhaeng&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn&desc=&descAlignY=40&color=0:61c3cc,100:C9F5D9)
   <br>
@@ -10,8 +10,6 @@
 ### **Tech**
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=flat-square&logo=axios&logoColor=white">
