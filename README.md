@@ -1,11 +1,11 @@
 <div align="left">
 
 ![reversal](https://capsule-render.vercel.app/api?type=soft&text=Hello,%20I'm%20Deokhaeng&fontColor=ffffff&fontAlign=50&fontSize=30&animation=fadeIn&desc=&descAlignY=40&color=0:61c3cc,100:C9F5D9)
-  <br>
-  <br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deokhaeng&layout=compact)](https://github.com/Deokhaeng/github-readme-stats)
 <br>
-  <br>
+<br>
 ## 🛠 Tech Stack
 ### **Tech**
 <p>
@@ -32,3 +32,4 @@
 <br>
 </p>
 </div>
+
