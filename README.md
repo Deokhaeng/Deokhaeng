@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/amazonamplify-orange?style=for-the-badge&logo=amazonsamplify&logoColor=white"> 
 <img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
 <img src="https://img.shields.io/badge/socketio-blue?style=for-the-badge&logo=socketio&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
 </p>
 
