@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/axios-007CE2?style=flat-square&logo=axios&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazonamplify-orange?style=flat-square&logo=amazonsamplify&logoColor=white"> 
 <img src="https://img.shields.io/badge/route53-F7A81B?style=flat-square&logo=route53&logoColor=white">
 <img src="https://img.shields.io/badge/socketio-blue?style=flat-square&logo=socketio&logoColor=white">
 </br>
