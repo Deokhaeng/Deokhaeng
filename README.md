@@ -1,7 +1,5 @@
 <div align="left">
-<br>
-
-<br>
+  
 ## 🛠 Tech Stack
 ### **Tech**
 <p>
