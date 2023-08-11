@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <br>
 </p>
 
